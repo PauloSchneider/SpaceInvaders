@@ -66,7 +66,7 @@ public class SpaceInvaders {
                     if (meusmonstros[k].vida == 0) {
                         meusmonstros[k].x = -10;
                         meusmonstros[k].y = 100;
-                    }
+                    } 
                 }
                 
             }
